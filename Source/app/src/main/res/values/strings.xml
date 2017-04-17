@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appointment Detection System</string>
+    <string name="validuname">Enter a valid user name</string>
+
+    <string name="my_text"><u>04/24/2017</u>.</string>
+
+    </resources>
